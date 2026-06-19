@@ -1,0 +1,12 @@
+{
+  "name": "hexagon-navigation-app",
+  "version": "1.0.0",
+  "description": "Professional multi-platform navigation app",
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "test": "jest",
+    "lint": "eslint src/"
+  }
+}

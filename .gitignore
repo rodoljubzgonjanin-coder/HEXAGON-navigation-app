@@ -1,0 +1,12 @@
+node_modules/
+.env
+.env.local
+build/
+dist/
+*.apk
+*.aab
+*.ipa
+.DS_Store
+logs/
+.gradle/
+ios/Pods/
